@@ -19,4 +19,4 @@ jobs:
         with:
           #👇 Chromatic projectToken, see https://storybook.js.org/tutorials/intro-to-storybook/react/en/deploy/ to obtain it
           projectToken: ${{ secrets.9949a33c841d }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.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 }}
